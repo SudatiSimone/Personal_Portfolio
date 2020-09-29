@@ -5,35 +5,69 @@
     <title>Simone Sudati Portfolio</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="js/script.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 </head>
 <body>
+    <header class="left">
+        <nav>
+            <a>Navbar:</a>
+            <a href="#about">About me</a> |
+            <a href="#projects">Projects</a> |
+            <a href="#skills">Skills</a> |
+            <a href="#hobbies">Hobbies</a> |
+            <a href="#contact">Contact me</a>
+        </nav>
+    </header>
+    <br>
+	<div class="text-center" id="start">
+        <img id="img" src="images/photo.PNG" width="100">
+        <div>
+            <h1>Simone Sudati</h1>
+            <p><font size="+2">Software Engineer</font></p>
 
-  
-    
-	
-	
-	
-	
-    <hr>
-    <p>The nav element defines a set of navigation links:</p>
+            <a href="#" class="fa fa-envelope"></a>
+            <a href="#" class="fa fa-github"></a>
+            <a href="#" class="fa fa-reddit"></a>
+            <a href="#" class="fa fa-linkedin"></a>
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-instagram"></a>
+            <a href="#" class="fa fa-spotify"></a>
 
-    <nav>
-        <a href="/html/">HTML</a> |
-        <a href="/css/">Projects</a> |
-        <a href="/js/">Contact me</a> |
-        <a href="/python/">Hobbies</a>
-    </nav>
-	
+            <br><br>
+            <a href="paragraph.html" target="_blank">Download resume</a>
+
+        </div>
+    </div>
+
+    <h1 id="about">About me</h1>
+    <p>Software Engineering Student at the University of Bergamo. From Martinengo (Bergamo) born on July 26, 1997. I’m going to enrol in a Master’s degree in SIR (Systems on network). I’m also look for a part time or internship job to improve my skills and experiences. I’m interested in software development, studying and managing data and problems solving.</p>
+    <h1 id="projects">Projects</h1>
+    <h1 id="hobbies">Hobbies</h1>
+
+
 	<hr>
-    <img width="100"  src="images/photo.PNG">
-    <hr>
+    <h1 id="skills">Skills</h1>
+    <h3>Programming</h3>
+    <label for="disk_c">Python:</label>
+    <meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
 
-    <hr>
-    <a href="paragraph.html" target="_blank">Click here to download my resume <img width="100"  src="images/photo.PNG"></a>
-    <hr>
-	
-	<hr>
-    <h1>Skills:</h1>
+    <label for="disk_d">Html/CSS:</label>
+    <meter id="disk_d" value="0.6">60%</meter>
+    <h3>Tools and Environment</h3>
+    <label for="disk_c">Python:</label>
+    <meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
+
+    <label for="disk_d">Html/CSS:</label>
+    <meter id="disk_d" value="0.6">60%</meter>
+    <h3>Programming skills</h3>
+    <label for="disk_c">Python:</label>
+    <meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
+
+    <label for="disk_d">Html/CSS:</label>
+    <meter id="disk_d" value="0.6">60%</meter>
+
+    <h3>Scientific</h3>
 
     <label for="disk_c">Python:</label>
     <meter id="disk_c" value="2" min="0" max="10">2 out of 10</meter><br>
@@ -41,7 +75,7 @@
     <label for="disk_d">Html/CSS:</label>
     <meter id="disk_d" value="0.6">60%</meter>
     <hr>
-	<h1>Contact me</h1>
+	<h1 id="contact">Contact me</h1>
     <form action="process.php" method="post">
         <p>Title: <input name="title" type="text" placeholder="Enter title"></p>
         <p>Text: <input name="text" type="text" placeholder="Enter text"></p>
