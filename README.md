@@ -1,5 +1,5 @@
 # Personal_Portfolio
-![test](https://github.com/SudatiSimone/TVSWProject/workflows/test/badge.svg)
+![Build](https://github.com/SudatiSimone/Personal_Portfolio/GitHub Pages/Page Build)
 
 ## Capture
 
