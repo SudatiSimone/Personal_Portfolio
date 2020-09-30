@@ -1,5 +1,7 @@
 # Personal_Portfolio
 
+## Introduction
+My personal static website in html/css. 
 
 ## Capture
 
