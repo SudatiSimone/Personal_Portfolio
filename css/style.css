@@ -24,3 +24,24 @@
   opacity: 0.6;
 }
 
+.message{
+    width:246;
+    height:130;
+    padding:10;
+    margin:10;
+    resize:none;
+    box-sizing: border-box;
+}
+
+#contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+}
+
+img {
+  border-radius: 50%;
+}
