@@ -5,7 +5,7 @@
 
 **Homepage**
 
-<img src="Capture1.JPG"
+<img src="images/Capture1.JPG"
      style="float: left; margin-right: 10px;" />
 
 ## Diritti di autore icon
