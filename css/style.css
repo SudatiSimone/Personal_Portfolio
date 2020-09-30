@@ -63,3 +63,23 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+
+ #grey {
+      background: #E5E8E8;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 200px;
+      padding-left: 200px;
+      margin:0;
+    }
+
+
+#orange {
+     background: #F8C471;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 200px;
+      padding-left: 200px;
+     margin:0;
+   }
