@@ -1,5 +1,5 @@
 # Personal_Portfolio
-![Build](https://github.com/SudatiSimone/Personal_Portfolio/GitHub Pages/Page Build)
+
 
 ## Capture
 
