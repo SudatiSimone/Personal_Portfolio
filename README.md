@@ -3,8 +3,6 @@
 
 ## Capture
 
-**Homepage**
-
 <img src="images/Capture1.JPG"
      style="float: left; margin-right: 10px;" />
 
