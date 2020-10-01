@@ -83,3 +83,7 @@ tr:nth-child(even) {
       padding-left: 18%;
      margin:0;
    }
+
+.formfield * {
+  vertical-align: text-top;
+}

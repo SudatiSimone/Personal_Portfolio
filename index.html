@@ -281,14 +281,23 @@
     <div id="grey">
     <hr>
 	<h1 id="contact">Contact me &#128231;</h1>
-    <form action="process.php" method="post">
+    <form method="POST" action="https://formspree.io/sudatisimone@gmail.com">
 
-        <p>Email: <input name="email" type="email" placeholder="Email"></p><p>Title: <input name="title" type="text" placeholder="Enter title"></p>
-        <p>Text: <input class="message" name="text" type="text" placeholder="Enter text"></input></p>
+        <label for="email">Email:</label>
+        <input id="email" type="email" placeholder="Enter email"><br><br>
+        <label for="subject">Subject:</label>
+        <input id="subject" type="text" placeholder="Enter subject"><br><br>
+
+        <p class="formfield">
+            <label for="textarea">Text:</label>
+            <textarea placeholder="Insert your message..."id="textarea" rows="5"></textarea>
+        </p>
         <p>File: <input name="file" type="file"></p>
-        <p><input name="submit" type="submit"></p>
+        <button type="submit">Send</button>
     </form>
     <hr>
+
+
     </div>
 
 </body>
