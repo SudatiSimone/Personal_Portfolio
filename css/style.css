@@ -87,3 +87,5 @@ tr:nth-child(even) {
 .formfield * {
   vertical-align: text-top;
 }
+
+ul.b {list-style-type: square;}
