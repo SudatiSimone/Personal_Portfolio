@@ -3,9 +3,7 @@
 ## Introduction
 My personal static website in html/css. 
 
-## Features
-My  portfolio  
-## Snapshot
+## Capture
 
 <img src="images/Capture1.JPG"
      style="float: left; margin-right: 10px;" />
