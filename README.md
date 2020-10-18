@@ -1,5 +1,5 @@
 # Personal_Portfolio
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![GitHub contributors](https://img.shields.io/github/contributors/SudatiSimone/Personal_Portfolio.svg)](https://GitHub.com/SudatiSimone/Personal_Portfolio/graphs/contributors/) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![GitHub contributors](https://img.shields.io/github/contributors/SudatiSimone/Personal_Portfolio.svg)](https://GitHub.com/SudatiSimone/Personal_Portfolio/graphs/contributors/) [![GitHub release](https://img.shields.io/github/release/SudatiSimone/Personal_Portfolio.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 ## Introduction
 My personal static website in html/css. 
 
