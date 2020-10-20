@@ -1,6 +1,6 @@
 # Personal_Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-blue.svg)]
+![Version: 0.0.1](https://img.shields.io/badge/Version-0.0.1-blue.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/SudatiSimone/Personal_Portfolio.svg)](https://GitHub.com/SudatiSimone/Personal_Portfolio/graphs/contributors/) 
 ## Introduction
 My personal static website in html/css. 
