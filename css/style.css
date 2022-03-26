@@ -2,8 +2,16 @@
     text-align: center!important;
 }
 .left{
-    text-align: right;
+    text-align: left;
+          padding-left: 30%;
+          line-height:130%;
+
 }
+
+.center{
+    text-align: center;
+}
+
 
 /***
 *{
@@ -24,6 +32,10 @@
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.6;
+}
+
+table {
+align:center;
 }
 
 .message{
@@ -64,6 +76,10 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
+#padding-left {
+      padding-left: 18%;
+      text-align: left;
+}
 
  #grey {
       background: #E5E8E8;
@@ -75,12 +91,13 @@ tr:nth-child(even) {
     }
 
 
-#orange {
-     background: #F8C471;
+#white {
+     background: #FFFFFF;
       padding-top: 2%;
       padding-bottom: 2%;
-      padding-right: 18%;
-      padding-left: 18%;
+      padding-right: 12%;
+      padding-left: 12%;
+      line-height:130%;
      margin:0;
    }
 
